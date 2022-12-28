@@ -10,7 +10,7 @@ I usually use the name `Kode` on social platforms.
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manhhungpc&show_icons=true&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manhhungpc&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manhhungpc&hide=shell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✍️ About me:
