@@ -2,7 +2,6 @@
 
 <div id="header">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="134"/>
-  <img src="https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="102"/>
 </div>
 
@@ -10,8 +9,10 @@ I usually use the name `Kode` on social platforms.
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manhhungpc&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manhhungpc&hide=shell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=manhhungpc&show_icons=true&hide=issues&count_private=true&theme=react&bg_color=20232A">
+</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manhhungpc&hide=shell&layout=compact&theme=react&bg_color=20232A">
 
 ### ✍️ About me:
 
