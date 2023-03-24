@@ -12,7 +12,7 @@ I usually use the name `Kode` on social platforms.
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=manhhungpc&show_icons=true&hide=issues&count_private=true&theme=react&bg_color=20232A">
 </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manhhungpc&hide=shell&layout=compact&theme=react&bg_color=20232A">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manhhungpc&hide=shell&langs_count=8&exclude_repo=JavaFx_Dictionary&layout=compact&theme=react&bg_color=20232A">
 
 ### ✍️ About me:
 
