@@ -10,8 +10,8 @@ I usually use the name `Kode` on social platforms.
 ---
 
 <div >
-  <img src="https://github-readme-stats.vercel.app/api?username=manhhungpc&show_icons=true&hide=issues&count_private=true&theme=react&bg_color=20232A" height="200">
-<img src="https://github-readme-stats-me-nine-green.vercel.app/api/top-langs?&username=manhhungpc&hide=css,shell&langs_count=8&layout=compact&exclude_repo=quatangem,JavaFx_Dictionary,UETCodeCamp,DSA_20020138_coursera,DSA_20020138_PhamCongManhHung&theme=react&bg_color=20232A" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=manhhungpc&show_icons=true&hide=issues&count_private=true&theme=react&bg_color=20232A" height="180">
+<img src="https://github-readme-stats-me-nine-green.vercel.app/api/top-langs?&username=manhhungpc&hide=css,shell&langs_count=8&layout=compact&exclude_repo=quatangem,JavaFx_Dictionary,UETCodeCamp,DSA_20020138_coursera,DSA_20020138_PhamCongManhHung&theme=react&bg_color=20232A" height="180">
 </div>
   
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manhhungpc&hide=shell,css&langs_count=8&exclude_repo=JavaFx_Dictionary,UETCodeCamp&layout=compact&theme=react&bg_color=20232A"> -->
