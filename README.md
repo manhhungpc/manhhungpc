@@ -22,7 +22,7 @@ I usually use the name `Kode` on social platforms.
 
 - 💻 I also cooperate with Ph.D. students to research and improve performance on program analysis and language model for API recommendations for Java IDE at Intelligent Software Engineering Laboratory, UET-VNU
 
-- ⚡ In my free time, I solve problems on Leetcode, learn new technology and build some fun projects.
+- ⚡ In my free time, I love ~~solving problems on Leetcode~~, learning new technology and building some fun projects.
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manhhung912/) [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/manhhung.kode1620/) or Email: [hungpcm.hrt@gmail.com](mailto:hungpcm.hrt@gmail.com)
 
