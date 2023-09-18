@@ -24,7 +24,7 @@ I usually use the name `Kode` on social platforms.
 
 - ⚡ In my free time, I love ~~solving problems on Leetcode~~, learning new technology and building some fun projects.
 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manhhung912/) [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/manhhung.kode1620/) or Email: [hungpcm.hrt@gmail.com](mailto:hungpcm.hrt@gmail.com)
+- 📫 How to reach me: [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://www.discordapp.com/users/476379884659408906)  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manhhung912/) or Email: [hungpcm.hrt@gmail.com](mailto:hungpcm.hrt@gmail.com)
 
 ### Certificates:
 - The Scienctific Research Conference for Undergraduates, UET-FIT ([2023](https://drive.google.com/file/d/1IdLqO-zNSqAUEpLi6KPP7yBjTz-iaPC7/view?usp=sharing))
